@@ -1,6 +1,6 @@
 {
-"poolMetaName": "Celtic_Football_Club",
-"poolMetaDescription": "The Glorious Glasgow Celtic Football Club, 1888, Hail Hail",
-"poolMetaTicker": "C_F_C",
+"name": "Celtic_Football_Club",
+"description": "The Glorious Glasgow Celtic Football Club, 1888, Hail Hail",
+"ticker": "C_F_C",
 "poolMetaHomepage": "https://github.com/PaddyBhoy1888"
 }
